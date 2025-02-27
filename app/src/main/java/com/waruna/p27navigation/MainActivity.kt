@@ -8,9 +8,9 @@ import androidx.core.view.WindowInsetsCompat
 
 class MainActivity : AppCompatActivity() {
 
-    //1-create nav graph resource xml file
+    //1-add dependencies
+    //2-create nav graph resource xml file
     //It needs nav-host fragment
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
